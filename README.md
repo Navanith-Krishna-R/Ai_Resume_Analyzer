@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👩‍💻 Author
 
-Priyanka A
+Navanith Krishna R
 - GitHub: [[@Navanith_Krishna_R](https://github.com/Navanith-Krishna-R/Ai_Resume_Analyzer.git)
   
 ## 🙏 Acknowledgments
