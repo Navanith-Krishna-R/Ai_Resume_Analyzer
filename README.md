@@ -158,8 +158,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👩‍💻 Author
 
 Priyanka A
-- GitHub: [@PriyankaAnantha](https://github.com/PriyankaAnantha)
-
+- GitHub: [[@Navanith_Krishna_R](https://github.com/Navanith-Krishna-R/Ai_Resume_Analyzer.git)
+  
 ## 🙏 Acknowledgments
 
 - Mistral AI for providing the AI capabilities
@@ -172,7 +172,7 @@ Priyanka A
 ## 📞 Support
 
 If you have any questions or need help, please open an issue in the GitHub repository.
-
+or mail me at Navanithkrishna2003@gmail.com
 ---
 
-Made with ❤️ by Priyanka A 
+Made By Navanith Krishna R
