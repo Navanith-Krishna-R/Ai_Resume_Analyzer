@@ -67,12 +67,14 @@ cd ai-resume-analyzer
 ```bash
 cd frontend
 npm install
+npm npm install cors
 ```
 
 3. Install backend dependencies:
 ```bash
 cd ../backend
 npm install
+npm install cors
 ```
 
 4. Set up environment variables:
