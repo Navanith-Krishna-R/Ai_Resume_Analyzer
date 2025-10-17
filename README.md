@@ -25,10 +25,6 @@ A modern full-stack web application that allows users to upload their resume (PD
 - **Secure Storage**: Resume data stored securely using Supabase
 - **AI-Powered Analysis**: Leveraging Mistral AI for intelligent resume analysis
 
-## 🚀 Live Demo
-
-Try it now: [InsightfulCV](https://ai-cv-analyzer.netlify.app/)
-
 ## 🛠️ Tech Stack
 
 ### Frontend
